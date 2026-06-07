@@ -10,8 +10,8 @@ The project is built on an isolated network using VirtualBox to simulate a corpo
 
 ### 1.1. Network Topology and Machines
 
-(<img width="599" height="464" alt="diagram" src="https://github.com/user-attachments/assets/9c3d1701-3f9f-48df-ae96-24d768265dee" />
-)
+<img width="599" height="464" alt="diagram" src="https://github.com/user-attachments/assets/9c3d1701-3f9f-48df-ae96-24d768265dee" />
+
 
 The network is a private subnet **192.168.10.0/24**. All machines were configured to use the same network adapter setting 
 
